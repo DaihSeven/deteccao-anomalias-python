@@ -1,4 +1,3 @@
-# deteccao-anomalias-python
 
 # deteccao-anomalias-python
 ## Nome: Detecção de Anomalias em Transações Financeiras com Python
